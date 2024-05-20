@@ -1,0 +1,10 @@
+.container {
+  border: 3px double black;
+  height: auto;
+  width: 200px;
+  background-color: cadetblue;
+
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
